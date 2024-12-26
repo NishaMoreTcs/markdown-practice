@@ -7,6 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 This is **markdown** repo
+*** this is bold and intallic text ***
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
